@@ -17,7 +17,7 @@
     {
       "id": 3,
       "message": "Three",
-      "attention": false,
+      "attention": true,
       "date": "03-04-2019",
       "tech": "Sam Smith"
     }
