@@ -2,17 +2,17 @@
   "logs": [
     {
       "id": 1,
-      "message": "One",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "message": "Someone put cookie crumbs in the usb port on my machine",
+      "attention": true,
+      "tech": "Bob",
+      "date": "2021-03-01T16:16:36.365Z"
     },
     {
       "id": 3,
-      "message": "Three",
-      "attention": true,
-      "date": "03-04-2019",
-      "tech": "Sam Smith"
+      "message": "Fixed hard drive on work station 002",
+      "attention": false,
+      "tech": "Jen",
+      "date": "2021-03-01T16:12:24.103Z"
     },
     {
       "message": "Changed network card on server 007",
