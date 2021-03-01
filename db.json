@@ -8,18 +8,18 @@
       "tech": "Sam Smith"
     },
     {
-      "id": 2,
-      "message": "Two",
-      "attention": false,
-      "date": "03-03-2019",
-      "tech": "Sam Smith"
-    },
-    {
       "id": 3,
       "message": "Three",
       "attention": true,
       "date": "03-04-2019",
       "tech": "Sam Smith"
+    },
+    {
+      "message": "Changed network card on server 007",
+      "attention": false,
+      "tech": "Sam",
+      "date": "2021-03-01T15:38:30.212Z",
+      "id": 4
     }
   ],
   "techs": [
